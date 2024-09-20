@@ -1,4 +1,9 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+The computer picks a random number between 1 and 10.
+The player has 3 attempts to guess the number.
+After each guess, the player is told if the guess is too high, too low, or correct.
+If the player guesses correctly within the 3 tries, they win; otherwise, they lose, and the correct number is revealed.
+
 

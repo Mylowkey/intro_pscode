@@ -1,4 +1,8 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+The customer starts at an initial position, and the target location is predefined.
+The customer can move north, south, east, or west by adjusting the x or y coordinates.
+The loop continues until the customer reaches the target position.
+After each move, the application checks if the customer has reached the target and provides feedback on their position.
 

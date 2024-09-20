@@ -1,4 +1,12 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+1. Start the program.
+2. Each scan counts for 2 products.
+3. Begin counting from 2.
+4. For every count:
+    - Add 2 to the previous number.
+    - Show the current count.
+5. Stop counting when you reach 50.
+6. Show a message: "The case is full with 50 product packages."
+7. End the program.
